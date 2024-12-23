@@ -1,0 +1,44 @@
+=================Types of languages=================
+
+
+1.Compiler Type 
+2.Interpreter Type 
+
+
+1. Python is interpreter type , high level , dynamically typed programming language 
+
+
+val name : String = 'Bindhu' ##Static
+name = 'Bindhu' #Dynamically 
+
+NAME = 'BINDHU'
+name = 'BIDHU'
+
+=================LOGICAL OPERATORS=================
+AND 
+True and True ===> True
+True and False ===> True
+False and False ===> False 
+
+OR 
+True or False ===> True
+True or True ===> True
+False or False ===> False 
+
+================Type casting and string literal's================
+
+\ - Ignoring quotes 
+\n - Newline character 
+\t - Tab space 
+r - Raw String (Ignore escape character's)
+
+
+================Print Methods================
+sep - Separates for value
+end - Prints at the end 
+Example : print('Hello', 'I am bindhu', sep='\n', end=':)')
+
+================String Methods================
+
+
+
